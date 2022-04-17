@@ -1,0 +1,9 @@
+[submodule "shrunner"]
+	path = shrunner
+	url = https://github.com/hrafnskogr/shrunner
+[submodule "injector_crt"]
+	path = injector_crt
+	url = https://github.com/hrafnskogr/injector_crt
+[submodule "injector_self"]
+	path = injector_self
+	url = https://github.com/hrafnskogr/injector_self
